@@ -30,6 +30,13 @@ Proprietary data has been **fully anonymized/redacted** while preserving:
 - Layout and design approach
 - Metric hierarchy and prioritization
 - Storytelling methodology
+- 
+### Executive Dashboard
+[![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
+### Agile Metrics Dashboard (Sprint View)
+[![Tableau Agile Metrics Dashboard 2](z_resources/tableau_agile_metrics_dashboard2.png)](z_resources/tableau_agile_metrics_dashboard2.png)
+### Agile Metrics Dashboard
+[![Tableau Agile Metrics Dashboard](z_resources/tableau_agile_metrics_dashboard.png)](z_resources/tableau_agile_metrics_dashboard.png)
 
 ---
 ## 📚 Tableau Development Resources
@@ -45,14 +52,6 @@ Includes:
 [![Tableau Cookbook Dashboard](z_resources/tableau_cookbook_preview.png)](z_resources/tableau_cookbook_full.png)
 
 Download the starter file to accelerate your Tableau development while maintaining design standards.
-
----
-### Executive Dashboard
-[![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
-### Agile Metrics Dashboard (Sprint View)
-[![Tableau Agile Metrics Dashboard 2](z_resources/tableau_agile_metrics_dashboard2.png)](z_resources/tableau_agile_metrics_dashboard2.png)
-### Agile Metrics Dashboard
-[![Tableau Agile Metrics Dashboard](z_resources/tableau_agile_metrics_dashboard.png)](z_resources/tableau_agile_metrics_dashboard.png)
 
 ---
 
