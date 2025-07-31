@@ -49,7 +49,7 @@ Includes:
 - Layout best practices
 - Ready-to-use chart templates
 
-[![Tableau Cookbook Dashboard](z_resources/tableau_cookbook.png)](z_resources/tableau_cookbook.png)
+[![Tableau Cookbook Dashboard](z_resources/tableau_cookbook_styleguide.png)](z_resources/tableau_cookbook_styleguide.png)
 
 Download the starter file to accelerate your Tableau development while maintaining design standards.
 
