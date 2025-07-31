@@ -1,5 +1,7 @@
 # kim-welch-portfolio
-Selected projects and work samples demonstrating skills in data analytics, engineering, and visualization, including interactive Tableau dashboards, SQL scripts, Python automation, and ETL workflows.
+
+Selected projects and work samples demonstrating expertise in data analytics, engineering, and visualization — including interactive Tableau dashboards, SQL scripts, Python automation, and ETL workflows — as well as cloud-based data solutions, AI-driven analytics, and machine learning integrations.
+
 
 
 # Kim Welch – Data Analytics & Engineering Portfolio
