@@ -2,9 +2,10 @@
 
 Welcome!  
 This portfolio highlights selected projects and work samples demonstrating expertise in **data engineering**, **analytics**, **visualization**, **cloud-based solutions**, and **Agile project management**.  
-Skills showcased include **SQL**, **Python**, **Alteryx**, **ETL workflows**, **Tableau dashboards**, **AI-driven analytics**, **machine learning integrations**, and **Scrum leadership** as both a **Scrum Master** and **Product Owner**.  
-These examples reflect my ability to transform raw data into actionable insights, deliver end-to-end analytical solutions, and lead cross-functional teams to successful project delivery.
 
+Skills showcased include **SQL**, **Python**, **Alteryx**, **ETL workflows**, **Tableau dashboards**, **AI-driven analytics**, **machine learning integrations**, and **Scrum leadership** as both a **Scrum Master** and **Product Owner**.  
+
+These examples reflect my ability to transform raw data into actionable insights, deliver end-to-end analytical solutions, and lead cross-functional teams to successful project delivery.
 
 ---
 
