@@ -65,15 +65,27 @@ Skills:
 
 ---
 
-## 🐍 Python – Data Parsing & Automation
+## 🐍 Python – Web Scraping & Brand Analysis (Graduate Coursework)
 
-**File:** [`python/data_parser.py`](python/data_parser.py)  
-Demonstrates:
-- Parsing and cleaning structured or log-style data
-- Building reusable transformation functions
-- Exporting results to analytics-ready formats (CSV, database table)
-- Leveraging `pandas` for data manipulation and summary statistics
+**File:** [`z_resources/project_amazon_scraping.ipynb`](z_resources/project_amazon_scraping.ipynb)  
+Graduate school project analyzing whether a **big data approach** works equally well for the three GAP brands — **Old Navy**, **GAP**, and **Banana Republic** — by collecting and analyzing real-world product data from Amazon.
 
+Key elements:
+- Automated data collection using `Selenium` and `BeautifulSoup`
+- Scraped product name, ratings, and review counts from multiple Amazon search pages
+- Exported structured datasets to CSV for brand performance comparison
+
+---
+## 📊 R-Based Machine Learning (Graduate Coursework)
+
+**File:** [`z_resources/r_predictions.ipynb`](z_resources/r_predictions.ipynb)  
+Team-based graduate project focused on housing price prediction using R.  
+Key tasks included:
+- Exploratory data analysis and skewness correction (log transformation)
+- Correlation matrix visualization for feature selection
+- MICE imputation to handle missing values
+- Consistent categorical encoding across training and test sets
+- 
 ---
 ## ☁️ Cloud, AI & Machine Learning
 
