@@ -14,10 +14,13 @@ These examples demonstrate my ability to transform raw data into actionable insi
 
 **Tableau Public Portfolio**  
 View my interactive dashboards here: [Tableau Public – Kim Welch](YOUR_TABLEAU_PUBLIC_LINK)  
-Includes projects completed for graduate coursework and independent exploration, focusing on:
-- Data storytelling and visual analytics
-- KPI tracking and monitoring
-- Business performance insights
+
+This portfolio contains interactive dashboards created during graduate coursework and independent projects, focusing on:
+- Data storytelling and visual analytics  
+- KPI tracking and monitoring  
+- Business performance insights  
+
+In my professional role, I have developed additional dashboards for enterprise use. Due to the proprietary and sensitive nature of this work, I have not included them in their entirety. However, I have provided a few screenshots within this portfolio (with all sensitive information fully redacted) to demonstrate my professional design style, layout approach, and storytelling methodology.
 
 ---
 
