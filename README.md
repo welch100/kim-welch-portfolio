@@ -60,7 +60,8 @@ Demonstrates:
 
 ## 🔄 Alteryx Workflow
 
-**File:** [`alteryx/data_pipeline.yxmd`](alteryx/data_pipeline.yxmd)  
+(z_resources/alteryx_pipeline.png)
+  
 Demonstrates:
 - End-to-end ETL workflow design
 - Input from multiple sources (CSV, database connection)
