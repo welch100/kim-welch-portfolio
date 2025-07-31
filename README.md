@@ -9,6 +9,20 @@ These examples reflect my ability to transform raw data into actionable insights
 
 ---
 
+
+## 🛠️ Skills Highlighted in This Portfolio
+
+- **Data Engineering:** SQL, Python, Alteryx, ETL pipeline design  
+- **Analytics Engineering:** Data modeling, KPI definition, dataset stewardship  
+- **Visualization & Storytelling:** Tableau, dashboard design, data narratives  
+- **Cloud, AI & Machine Learning:** Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Cloud Functions), prompt engineering, API integrations, AI-powered analytics  
+- **Programming & Automation:** Python (Selenium, BeautifulSoup, Pandas), R (caret, gbm, MICE), Jupyter notebooks  
+- **Project Management:** Agile methodology, sprint facilitation, Scrum Master & Product Owner roles, stakeholder communication  
+- **Business Acumen:** Translating technical findings into actionable business insights  
+- **Collaboration:** Partnering across technical, product, and business teams  
+
+---
+
 ## 📊 Interactive Dashboards
 
 **Tableau Public Portfolio**  
@@ -144,17 +158,6 @@ Demonstrates:
 **Video:** [Watch Presentation](https://drive.google.com/file/d/1Ev-NAdraV3Zc_VkMotzLJg9o6GGAAOQK/view?usp=sharing)  
 Demonstrates:
 - Overview of project goals and approach
-
----
-
-## 🛠️ Skills Highlighted in This Portfolio
-
-- **Data Engineering:** SQL, Python, Alteryx, ETL pipeline design  
-- **Analytics Engineering:** Data modeling, KPI definition, dataset stewardship  
-- **Visualization & Storytelling:** Tableau, dashboard design, data narratives  
-- **Cloud, AI & Machine Learning:** Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Cloud Functions), prompt engineering, API integrations, AI-powered analytics  
-- **Business Acumen:** Translating technical findings into actionable business insights  
-- **Collaboration:** Partnering across technical, product, and business teams  
 
 ---
 
