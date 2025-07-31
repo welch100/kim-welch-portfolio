@@ -31,6 +31,22 @@ Proprietary data has been **fully anonymized/redacted** while preserving:
 - Metric hierarchy and prioritization
 - Storytelling methodology
 
+---
+## 📚 Tableau Development Resources
+
+**Tableau Style Guide & Starter Workbook**  
+A downloadable Tableau “cookbook” dashboard designed as a starting point for developers to ensure consistent branding, typography, and layout across projects.  
+Includes:
+- Pre-set color palette for NGC projects
+- Recommended text sizes and fonts
+- Layout best practices
+- Ready-to-use chart templates
+
+[![Tableau Cookbook Dashboard](z_resources/tableau_cookbook_preview.png)](z_resources/tableau_cookbook_full.png)
+
+Download the starter file to accelerate your Tableau development while maintaining design standards.
+
+---
 ### Executive Dashboard
 [![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
 ### Agile Metrics Dashboard (Sprint View)
