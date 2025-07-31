@@ -60,7 +60,7 @@ Demonstrates:
 
 ## 🔄 Alteryx Workflow
 
-[z_resources/alteryx_pipeline.png]
+https://github.com/welch100/kim-welch-portfolio/blob/270c55523b6f133f55e8b83f889ab2dc6cf69bca/z_resources/alteryx_pipeline.png[z_resources/alteryx_pipeline.png]
   
 Demonstrates:
 - End-to-end ETL workflow design
