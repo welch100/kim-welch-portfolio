@@ -69,6 +69,14 @@ Demonstrates:
 
 ---
 
+## 🎥 Presentation Video
+
+**Video:** [Watch Presentation](https://drive.google.com/file/d/1Ev-NAdraV3Zc_VkMotzLJg9o6GGAAOQK/view?usp=sharing)  
+Demonstrates:
+- Overview of project goals and approach
+
+---
+
 ## 🛠️ Skills Highlighted in This Portfolio
 
 - **Data Engineering:** SQL, Python, Alteryx, ETL pipeline design
@@ -81,9 +89,9 @@ Demonstrates:
 
 ## 📬 Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- **Tableau Public:** [YOUR_TABLEAU_PUBLIC_LINK](YOUR_TABLEAU_PUBLIC_LINK)
-- **Email:** YOUR_EMAIL@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/kim-welch-b4b661a9/
+- **Tableau Public:** https://public.tableau.com/app/profile/kimberly.welch1580/vizzes
+- **Email:** kcw.welch@gmail.com
 
 ---
 
