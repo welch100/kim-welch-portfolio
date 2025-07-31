@@ -21,10 +21,12 @@ This portfolio contains interactive dashboards created during graduate coursewor
 - Business performance insights  
 
 In my professional role, I have developed additional dashboards for enterprise use. Due to the proprietary and sensitive nature of this work, I have not included them in their entirety. However, I have provided a few screenshots within this portfolio (with all sensitive information fully redacted) to demonstrate my professional design style, layout approach, and storytelling methodology.
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_executive_dashboard.png
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_agile_metrics_dashboard.png
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_agile_metrics_dashboard2.png
-
+### Executive Dashboard
+[![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
+### Agile Metrics Dashboard (Sprint View)
+[![Tableau Agile Metrics Dashboard 2](z_resources/tableau_agile_metrics_dashboard2.png)](z_resources/tableau_agile_metrics_dashboard2.png)
+### Agile Metrics Dashboard
+[![Tableau Agile Metrics Dashboard](z_resources/tableau_agile_metrics_dashboard.png)](z_resources/tableau_agile_metrics_dashboard.png)
 
 ---
 
