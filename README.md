@@ -1,4 +1,4 @@
-# Kim Welch – Data Analytics, Engineering, Cloud & Project Management Portfolio
+# Kim Welch – Data Analytics, Data Engineering, Cloud, AI/ML & Project Management Portfolio
 
 Welcome!  
 This portfolio highlights selected projects and work samples demonstrating expertise in **data engineering**, **analytics**, **visualization**, **cloud-based solutions**, and **Agile project management**.  
