@@ -43,9 +43,8 @@ Proprietary data has been **fully anonymized/redacted** while preserving:
 
 ## 🗄️ SQL – Data Transformation & Modeling
 
-**File:** [`sql/data_transformation.sql`](sql/data_transformation.sql)  
-Demonstrates:
-- Complex joins across multiple fact and dimension tables
+Skills:
+- Complex joins across multiple tables
 - Use of window functions for rolling metrics
 - Modular query design using CTEs for clarity and maintainability
 - Filtering and aggregation optimized for analytics consumption
