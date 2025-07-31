@@ -70,6 +70,21 @@ Demonstrates:
 
 ---
 
+## 📈 Project Management
+
+
+
+**Role:** Scrum Master & Product Owner  
+Demonstrates:
+- Application of Agile project management principles
+- Facilitated sprint planning, daily stand-ups, and retrospectives
+- Managed product backlog and prioritized features based on stakeholder input
+- Coordinated cross-functional team deliverables and removed blockers
+- Delivered clear, concise project status presentations to stakeholders and leadership
+- Balanced both strategic product vision and tactical sprint execution
+
+  ---
+
 ## 🎥 Presentation Video
 
 **Video:** [Watch Presentation](https://drive.google.com/file/d/1Ev-NAdraV3Zc_VkMotzLJg9o6GGAAOQK/view?usp=sharing)  
