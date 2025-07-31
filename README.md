@@ -60,7 +60,7 @@ Demonstrates:
 
 ## 🔄 Alteryx Workflow
 
-(z_resources/alteryx_pipeline.png)
+['z_resources/alteryx_pipeline.png']
   
 Demonstrates:
 - End-to-end ETL workflow design
