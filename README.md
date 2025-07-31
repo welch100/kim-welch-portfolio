@@ -64,8 +64,9 @@ Demonstrates:
 
 - Extensive hands-on experience with **Google Cloud Platform** technologies including BigQuery, Dataflow, Pub/Sub, and Cloud Functions.
 - Explored prompt engineering and API integrations as part of complex data streaming projects.
-- [Read my project reflection and lessons learned here](https://medium.com/@collins.kimberlynicole/project-refl-85ffca311320).
+- Published Medium article: [Project Reflection and Lessons Learned](https://medium.com/@collins.kimberlynicole/project-refl-85ffca311320) — detailing our approach, challenges, and real-world applications of GCP tools, streaming data pipelines, and AI-driven analytics.
 - Check out the [MGMT590 Final Project repository](https://github.com/welch100/MGMT590FinalProject_BrainiacsGroup8) demonstrating our implementation of GCP tools and streaming data pipelines.
+
 
 ---
 ## 🔄 Alteryx Workflow
