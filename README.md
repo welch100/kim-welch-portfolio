@@ -21,6 +21,10 @@ This portfolio contains interactive dashboards created during graduate coursewor
 - Business performance insights  
 
 In my professional role, I have developed additional dashboards for enterprise use. Due to the proprietary and sensitive nature of this work, I have not included them in their entirety. However, I have provided a few screenshots within this portfolio (with all sensitive information fully redacted) to demonstrate my professional design style, layout approach, and storytelling methodology.
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_executive_dashboard.png
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_agile_metrics_dashboard.png
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_agile_metrics_dashboard2.png
+
 
 ---
 
@@ -72,9 +76,9 @@ Demonstrates:
 
 ## 📈 Project Management
 
-
-
-**Role:** Scrum Master & Product Owner  
+**Role:** Scrum Master & Product Owner 
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/project_management_agile_status_presentation.png
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/project_management_agile_status_presentation2.png
 Demonstrates:
 - Application of Agile project management principles
 - Facilitated sprint planning, daily stand-ups, and retrospectives
@@ -83,7 +87,15 @@ Demonstrates:
 - Delivered clear, concise project status presentations to stakeholders and leadership
 - Balanced both strategic product vision and tactical sprint execution
 
-  ---
+**Additional Contribution – Tableau User Enablement**  
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_user_guide.png
+https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_user_guide2.png
+- Created the **NGC Tableau Welcome Guide**, a comprehensive Tableau Server user manual tailored for new users
+- Filled a gap in available Tableau resources by explaining how to interact with Tableau as a consumer
+- Collaborated with our Tableau representative to include it in the official "Welcome to Tableau" onboarding materials at NGC
+- Supported adoption of Tableau within my program and across the organization
+
+---
 
 ## 🎥 Presentation Video
 
