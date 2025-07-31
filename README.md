@@ -21,12 +21,6 @@ This portfolio contains interactive dashboards created during graduate coursewor
 - Business performance insights  
 
 In my professional role, I have developed additional dashboards for enterprise use. Due to the proprietary and sensitive nature of this work, I have not included them in their entirety. However, I have provided a few screenshots within this portfolio (with all sensitive information fully redacted) to demonstrate my professional design style, layout approach, and storytelling methodology.
-### Executive Dashboard
-[![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
-### Agile Metrics Dashboard (Sprint View)
-[![Tableau Agile Metrics Dashboard 2](z_resources/tableau_agile_metrics_dashboard2.png)](z_resources/tableau_agile_metrics_dashboard2.png)
-### Agile Metrics Dashboard
-[![Tableau Agile Metrics Dashboard](z_resources/tableau_agile_metrics_dashboard.png)](z_resources/tableau_agile_metrics_dashboard.png)
 
 ---
 
@@ -38,7 +32,12 @@ Proprietary data has been **fully anonymized/redacted** while preserving:
 - Metric hierarchy and prioritization
 - Storytelling methodology
 
-*(`images/` folder contains PNG/JPEG files of redacted dashboards.)*
+### Executive Dashboard
+[![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
+### Agile Metrics Dashboard (Sprint View)
+[![Tableau Agile Metrics Dashboard 2](z_resources/tableau_agile_metrics_dashboard2.png)](z_resources/tableau_agile_metrics_dashboard2.png)
+### Agile Metrics Dashboard
+[![Tableau Agile Metrics Dashboard](z_resources/tableau_agile_metrics_dashboard.png)](z_resources/tableau_agile_metrics_dashboard.png)
 
 ---
 
@@ -66,7 +65,8 @@ Demonstrates:
 
 ## 🔄 Alteryx Workflow
 
-[z_resources/alteryx_pipeline.png](https://github.com/welch100/kim-welch-portfolio/blob/1552d374de952304b32e4243c119b1a0824265f9/z_resources/alteryx_pipeline.png)
+
+[![Alteryx Pipeline](z_resources/alteryx_pipeline.png)](z_resources/alteryx_pipeline.png)
   
 Demonstrates:
 - End-to-end ETL workflow design
@@ -77,10 +77,6 @@ Demonstrates:
 ---
 
 ## 📈 Project Management
-
-**Role:** Scrum Master & Product Owner 
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/project_management_agile_status_presentation.png
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/project_management_agile_status_presentation2.png
 Demonstrates:
 - Application of Agile project management principles
 - Facilitated sprint planning, daily stand-ups, and retrospectives
@@ -88,15 +84,26 @@ Demonstrates:
 - Coordinated cross-functional team deliverables and removed blockers
 - Delivered clear, concise project status presentations to stakeholders and leadership
 - Balanced both strategic product vision and tactical sprint execution
+**Role:** Scrum Master & Product Owner 
+
+### Agile Status Presentation – Slide 1
+[![Agile Status Presentation Slide 1](z_resources/project_management_agile_status_presentation.png)](z_resources/project_management_agile_status_presentation.png)
+
+### Agile Status Presentation – Slide 2
+[![Agile Status Presentation Slide 2](z_resources/project_management_agile_status_presentation2.png)](z_resources/project_management_agile_status_presentation2.png)
 
 **Additional Contribution – Tableau User Enablement**  
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_user_guide.png
-https://github.com/welch100/kim-welch-portfolio/blob/62661d10f441ec9feb7cfa94b7ed9ddc86953e53/z_resources/tableau_user_guide2.png
+
 - Created the **NGC Tableau Welcome Guide**, a comprehensive Tableau Server user manual tailored for new users
 - Filled a gap in available Tableau resources by explaining how to interact with Tableau as a consumer
 - Collaborated with our Tableau representative to include it in the official "Welcome to Tableau" onboarding materials at NGC
 - Supported adoption of Tableau within my program and across the organization
 
+#### Tableau User Guide – Page 1
+[![Tableau User Guide Page 1](z_resources/tableau_user_guide.png)](z_resources/tableau_user_guide.png)
+
+#### Tableau User Guide – Page 2
+[![Tableau User Guide Page 2](z_resources/tableau_user_guide2.png)](z_resources/tableau_user_guide2.png)
 ---
 
 ## 🎥 Presentation Video
