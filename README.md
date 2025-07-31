@@ -30,7 +30,7 @@ Proprietary data has been **fully anonymized/redacted** while preserving:
 - Layout and design approach
 - Metric hierarchy and prioritization
 - Storytelling methodology
-- 
+
 ### Executive Dashboard
 [![Tableau Executive Dashboard](z_resources/tableau_executive_dashboard.png)](z_resources/tableau_executive_dashboard.png)
 ### Agile Metrics Dashboard (Sprint View)
@@ -49,7 +49,7 @@ Includes:
 - Layout best practices
 - Ready-to-use chart templates
 
-[![Tableau Cookbook Dashboard](z_resources/tableau_cookbook_preview.png)](z_resources/tableau_cookbook_full.png)
+[![Tableau Cookbook Dashboard](z_resources/tableau_cookbook.png)](z_resources/tableau_cookbook.png)
 
 Download the starter file to accelerate your Tableau development while maintaining design standards.
 
