@@ -61,7 +61,14 @@ Demonstrates:
 - Leveraging `pandas` for data manipulation and summary statistics
 
 ---
+## ☁️ Cloud, AI & Machine Learning
 
+- Extensive hands-on experience with **Google Cloud Platform** technologies including BigQuery, Dataflow, Pub/Sub, and Cloud Functions.
+- Explored prompt engineering and API integrations as part of complex data streaming projects.
+- [Read my project reflection and lessons learned here](https://medium.com/@collins.kimberlynicole/project-refl-85ffca311320).
+- Check out the [MGMT590 Final Project repository](https://github.com/welch100/MGMT590FinalProject_BrainiacsGroup8) demonstrating our implementation of GCP tools and streaming data pipelines.
+
+---
 ## 🔄 Alteryx Workflow
 
 
@@ -115,11 +122,12 @@ Demonstrates:
 
 ## 🛠️ Skills Highlighted in This Portfolio
 
-- **Data Engineering:** SQL, Python, Alteryx, ETL pipeline design
-- **Analytics Engineering:** Data modeling, KPI definition, dataset stewardship
-- **Visualization & Storytelling:** Tableau, dashboard design, data narratives
-- **Business Acumen:** Translating technical findings into actionable business insights
-- **Collaboration:** Partnering across technical, product, and business teams
+- **Data Engineering:** SQL, Python, Alteryx, ETL pipeline design  
+- **Analytics Engineering:** Data modeling, KPI definition, dataset stewardship  
+- **Visualization & Storytelling:** Tableau, dashboard design, data narratives  
+- **Cloud, AI & Machine Learning:** Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Cloud Functions), prompt engineering, API integrations, AI-powered analytics  
+- **Business Acumen:** Translating technical findings into actionable business insights  
+- **Collaboration:** Partnering across technical, product, and business teams  
 
 ---
 
